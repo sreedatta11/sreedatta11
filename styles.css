@@ -1,0 +1,25 @@
+body {
+    font-family: Roboto;
+    line-height: 1.6;
+    background-color: grey;
+    border-radius: 10px;
+}
+
+header {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+    font-family: Roboto;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text
+    font-family: Roboto;
+}
+.heading{
+    background-color: grey;
+    font-family: Roboto;
+    border-radius: 10px;
+}
